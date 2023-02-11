@@ -1,4 +1,4 @@
 #!/bin/bash
 ./proxy_on.sh
-mitmproxy --script ./local_proxy.py
+mitmweb
 ./proxy_off.sh

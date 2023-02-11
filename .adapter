@@ -1,2 +1,2 @@
-# ADAPTER="Wi-Fi"
-ADAPTER="Ethernet"
+ADAPTER="Wi-Fi"
+#ADAPTER="Ethernet"
